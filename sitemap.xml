@@ -3,11 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/</loc>
+    <loc>https://cvlab-tudelft.github.io/publication-type/1/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://cvlab-tudelft.github.io/authors/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/people/jan-van-gemert/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/publication_types/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/publication/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/education/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -15,23 +52,15 @@
   </url>
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
     <loc>https://cvlab-tudelft.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://cvlab-tudelft.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</loc>
   </url>
   
   <url>
