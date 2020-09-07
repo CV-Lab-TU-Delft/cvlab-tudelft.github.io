@@ -13,7 +13,32 @@
   </url>
   
   <url>
+    <loc>https://cvlab-tudelft.github.io/tag/convolution/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cvlab-tudelft.github.io/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/tag/equivariance/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/tag/full-padding/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/tag/image-boundary-effects/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/tag/image-classification/</loc>
     <lastmod>2020-08-07T18:14:07+02:00</lastmod>
   </url>
   
@@ -43,6 +68,21 @@
   </url>
   
   <url>
+    <loc>https://cvlab-tudelft.github.io/tag/receptive-field/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/tags/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/tag/translation-invariance/</loc>
+    <lastmod>2020-08-07T18:14:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cvlab-tudelft.github.io/education/</loc>
     <priority>0</priority>
   </url>
@@ -61,10 +101,6 @@
   
   <url>
     <loc>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/tags/</loc>
   </url>
   
 </urlset>
