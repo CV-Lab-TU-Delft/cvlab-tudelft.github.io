@@ -26,8 +26,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cvlab-tudelft.github.io/education/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum.&lt;/p&gt;
+&lt;p&gt;We provide various courses on computer vision at both the undergraduate and the graduate level. Specifically, we teach courses on Image Processing (B.Sc. level), Computer Vision (M.Sc. level) and Deep Learning (M.Sc. level). In addition, we supervise students at all levels in fundamental and applied research projects, several of which are performed in collaboration with Dutch companies.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://cvlab-tudelft.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvlab-tudelft.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://cvlab-tudelft.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvlab-tudelft.github.io/research/</guid>
+      <description></description>
     </item>
     
   </channel>

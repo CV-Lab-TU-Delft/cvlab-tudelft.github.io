@@ -92,11 +92,19 @@
   </url>
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/post/</loc>
+    <loc>https://cvlab-tudelft.github.io/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/people/</loc>
   </url>
   
   <url>
     <loc>https://cvlab-tudelft.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/research/</loc>
   </url>
   
   <url>
