@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvia L. Pintea | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/silvia-l.-pintea/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/silvia-l.-pintea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvia L. Pintea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 20:50:03 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/icon_hubf233d1c571ba2706feba0263f85ee91_788_512x512_fill_box_center_2.png</url>
+      <title>Silvia L. Pintea</title>
+      <link>https://cvlab-tudelft.github.io/people/silvia-l.-pintea/</link>
+    </image>
+    
+    <item>
+      <title>Deep Hough-Transform Line Priors</title>
+      <link>https://cvlab-tudelft.github.io/publication/2020-deep-hough/</link>
+      <pubDate>Sat, 18 Jul 2020 20:50:03 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020-deep-hough/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

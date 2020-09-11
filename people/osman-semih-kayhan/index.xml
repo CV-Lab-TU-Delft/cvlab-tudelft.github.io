@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Osman Semih Kayhan | CV Lab TU Delft</title>
+    <title>Osman Semih Kayhan | Delft CV Lab</title>
     <link>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</link>
       <atom:link href="https://cvlab-tudelft.github.io/people/osman-semih-kayhan/index.xml" rel="self" type="application/rss+xml" />
     <description>Osman Semih Kayhan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2020 18:14:07 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Mar 2020 18:14:07 +0200</lastBuildDate>
     <image>
-      <url>https://cvlab-tudelft.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <url>https://cvlab-tudelft.github.io/images/icon_hubf233d1c571ba2706feba0263f85ee91_788_512x512_fill_box_center_2.png</url>
       <title>Osman Semih Kayhan</title>
       <link>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>On Translation Invariance in CNNs: Convolutional Layers Can Exploit Absolute Spatial Location</title>
       <link>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</link>
-      <pubDate>Fri, 07 Aug 2020 18:14:07 +0200</pubDate>
+      <pubDate>Sat, 07 Mar 2020 18:14:07 +0200</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</guid>
       <description></description>
     </item>
