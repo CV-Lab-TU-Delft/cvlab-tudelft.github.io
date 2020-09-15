@@ -29,12 +29,39 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Education</title>
       <link>https://cvlab-tudelft.github.io/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cvlab-tudelft.github.io/education/</guid>
-      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;p&gt;We provide various courses on computer vision at both the undergraduate and the graduate level. Specifically, we teach courses on Image Processing (B.Sc. level), Computer Vision (M.Sc. level) and Deep Learning (M.Sc. level). In addition, we supervise students at all levels in fundamental and applied research projects, several of which are performed in collaboration with Dutch companies.&lt;/p&gt;
+      <description>&lt;p&gt;We provide various courses on computer vision at both the undergraduate and the graduate level. Specifically, we teach courses on Image Processing (B.Sc. level), Computer Vision (M.Sc. level) and Deep Learning (M.Sc. level). In addition, we supervise students at all levels in fundamental and applied research projects, several of which are performed in collaboration with Dutch companies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Join us</title>
+      <link>https://cvlab-tudelft.github.io/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvlab-tudelft.github.io/join/</guid>
+      <description>&lt;p&gt;Interested in joining us at the Computer Vision lab? Check to see if we have any open vacancies on the TU Delft website.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-outline-primary&#34; href=&#34;https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/&#34; target=&#34;_blank&#34;&gt;Vacancies&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Internships&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We provide the opportunity to join the tab temporarily through internships for PhD candidates from other labs. Contact us through &lt;a href=&#34;https://cvlab-tudelft.github.io/#contact&#34;&gt;the contact form on the homepage&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thesis supervision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please see our page on &lt;a href=&#34;https://cvlab-tudelft.github.io/thesis&#34;&gt;thesis supervision&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc theses</title>
+      <link>https://cvlab-tudelft.github.io/thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvlab-tudelft.github.io/thesis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;For students&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have many more students than staff members and thus we cannot guarantee that we can supervise you on any of these topics. Thus, before you contact the company, make sure you have a TU Delft supervisor.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-outline-primary&#34; href=&#34;https://cvlab-tudelft.github.io/#contact&#34;&gt;Get in touch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For companies&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please provide a PDF with the project including scientific research questions. The PDF will be posted here, and thus advertised to potential students. We cannot guarantee that students respond to the project; we can also not guarantee that someone from the computer vision lab can supervise.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-outline-primary&#34; href=&#34;https://cvlab-tudelft.github.io/#contact&#34;&gt;Submit proposal&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

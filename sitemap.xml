@@ -93,12 +93,19 @@
   </url>
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/education/</loc>
-    <priority>0</priority>
+    <loc>https://cvlab-tudelft.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/categories/</loc>
+    <loc>https://cvlab-tudelft.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/join/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cvlab-tudelft.github.io/thesis/</loc>
   </url>
   
   <url>
