@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://cvlab-tudelft.github.io/tag/inductive-priors/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cvlab-tudelft.github.io/people/jan-van-gemert/</loc>
     <lastmod>2021-03-09T10:26:21+01:00</lastmod>
   </url>
@@ -63,11 +68,6 @@
   </url>
   
   <url>
-    <loc>https://cvlab-tudelft.github.io/tag/visual-inductive-priors/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cvlab-tudelft.github.io/publication-type/1/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
   </url>
@@ -79,11 +79,6 @@
   
   <url>
     <loc>https://cvlab-tudelft.github.io/tag/hough-transform/</loc>
-    <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/tag/inductive-priors/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
   </url>
   
