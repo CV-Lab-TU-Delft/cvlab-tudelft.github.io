@@ -1,156 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/publication-type/4/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/people/attila-lengyel/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/authors/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/tag/inductive-priors/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/people/jan-van-gemert/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/people/marcos-baptista-rios/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/publication_types/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/publication/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/tags/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cvlab-tudelft.github.io/publication/2021-vipriors-1/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://cvlab-tudelft.github.io/publication-type/1/</loc>
-    <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/attila-lengyel/</loc>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/authors/</loc>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/</loc>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication_types/</loc>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/</loc>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/2021-attila/</loc>
+    <lastmod>2021-09-16T17:06:52+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication-type/4/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/tag/inductive-priors/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/jan-van-gemert/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/marcos-baptista-rios/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/tags/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/2021-vipriors-1/</loc>
+    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2020-deep-hough/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/tag/hough-transform/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/tag/line-detection/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/people/silvia-l.-pintea/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/people/yancong-lin/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/tag/boundary-effects/</loc>
     <lastmod>2020-03-07T18:14:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/tag/equivariance/</loc>
     <lastmod>2020-03-07T18:14:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/tag/image-classification/</loc>
     <lastmod>2020-03-07T18:14:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</loc>
     <lastmod>2020-03-07T18:14:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/education/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/join/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/thesis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/people/nergis-tomen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/people/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/research/</loc>
   </url>
-  
 </urlset>
