@@ -243,6 +243,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LGSBVR187N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-LGSBVR187N', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -1855,127 +1893,6 @@
     
 
   
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  <section id="tags" class="home-section wg-tag-cloud   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Topics we work on</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    
-
-    
-
-      
-      
-      
-      
-      
-      
-
-      <div class="tag-cloud">
-        
-          
-          
-          
-          <a href="/tag/boundary-effects/" class="btn btn-sm btn-outline-primary" style="font-size:0.7rem">boundary effects</a>
-        
-          
-          
-          
-          <a href="/tag/equivariance/" class="btn btn-sm btn-outline-primary" style="font-size:0.7rem">equivariance</a>
-        
-          
-          
-          
-          <a href="/tag/hough-transform/" class="btn btn-sm btn-outline-primary" style="font-size:0.7rem">Hough transform</a>
-        
-          
-          
-          
-          <a href="/tag/image-classification/" class="btn btn-sm btn-outline-primary" style="font-size:0.7rem">image classification</a>
-        
-          
-          
-          
-          <a href="/tag/inductive-priors/" class="btn btn-sm btn-outline-primary" style="font-size:1.7302256254687514rem">inductive priors</a>
-        
-          
-          
-          
-          <a href="/tag/line-detection/" class="btn btn-sm btn-outline-primary" style="font-size:0.7rem">line detection</a>
-        
-          
-          
-          
-          <a href="/tag/video-understanding/" class="btn btn-sm btn-outline-primary" style="font-size:0.7rem">video-understanding</a>
-        
-      </div>
-    
 
   </div>
 </div>
