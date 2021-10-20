@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert-Jan Bruintjes | Delft CV Lab</title>
-    <link>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</link>
-      <atom:link href="https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robert-Jan Bruintjes</description>
+    <title>Mark Hoogendoorn | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/mark-hoogendoorn/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/mark-hoogendoorn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Hoogendoorn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Oct 2021 16:23:41 +0200</lastBuildDate>
     <image>
       <url>https://cvlab-tudelft.github.io/images/icon_hubf233d1c571ba2706feba0263f85ee91_788_512x512_fill_box_center_3.png</url>
-      <title>Robert-Jan Bruintjes</title>
-      <link>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</link>
+      <title>Mark Hoogendoorn</title>
+      <link>https://cvlab-tudelft.github.io/people/mark-hoogendoorn/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://cvlab-tudelft.github.io/publication/2021-flexconv/</link>
       <pubDate>Mon, 18 Oct 2021 16:23:41 +0200</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/2021-flexconv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VIPriors 1: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
-      <link>https://cvlab-tudelft.github.io/publication/2021-vipriors-1/</link>
-      <pubDate>Tue, 09 Mar 2021 10:26:21 +0100</pubDate>
-      <guid>https://cvlab-tudelft.github.io/publication/2021-vipriors-1/</guid>
       <description></description>
     </item>
     
