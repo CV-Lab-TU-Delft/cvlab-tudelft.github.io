@@ -5,7 +5,7 @@
     <link>https://cvlab-tudelft.github.io/people/jan-van-gemert/</link>
       <atom:link href="https://cvlab-tudelft.github.io/people/jan-van-gemert/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan van Gemert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Oct 2021 16:23:41 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jan 2022 09:23:41 +0200</lastBuildDate>
     <image>
       <url>https://cvlab-tudelft.github.io/images/icon_hubf233d1c571ba2706feba0263f85ee91_788_512x512_fill_box_center_3.png</url>
       <title>Jan van Gemert</title>
@@ -15,7 +15,7 @@
     <item>
       <title>FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes</title>
       <link>https://cvlab-tudelft.github.io/publication/2021-flexconv/</link>
-      <pubDate>Mon, 18 Oct 2021 16:23:41 +0200</pubDate>
+      <pubDate>Sun, 30 Jan 2022 09:23:41 +0200</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/2021-flexconv/</guid>
       <description></description>
     </item>
