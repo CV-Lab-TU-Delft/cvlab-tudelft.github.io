@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/publication-type/6/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 15:56:19 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/icon_hubf233d1c571ba2706feba0263f85ee91_788_512x512_fill_box_center_3.png</url>
+      <title>6</title>
+      <link>https://cvlab-tudelft.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Eye Gaze Estimation and Its Applications</title>
+      <link>https://cvlab-tudelft.github.io/publication/2021_gaze_and_applications/</link>
+      <pubDate>Fri, 29 Jul 2022 15:56:19 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2021_gaze_and_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
