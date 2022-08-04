@@ -31,8 +31,16 @@
     <item>
       <title>Self-Learning Transformations for Improving Gaze and Head Redirection</title>
       <link>https://cvlab-tudelft.github.io/publication/2020_sted/</link>
-      <pubDate>Tue, 04 Aug 2020 10:49:38 +0200</pubDate>
+      <pubDate>Sun, 06 Dec 2020 10:49:38 +0200</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/2020_sted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based Region Selection for End-to-End Gaze Estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2020_regionselect/</link>
+      <pubDate>Mon, 07 Sep 2020 11:49:54 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020_regionselect/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yusuke Sugano | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/yusuke-sugano/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/yusuke-sugano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yusuke Sugano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 11:49:54 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Yusuke Sugano</title>
+      <link>https://cvlab-tudelft.github.io/people/yusuke-sugano/</link>
+    </image>
+    
+    <item>
+      <title>Learning-based Region Selection for End-to-End Gaze Estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2020_regionselect/</link>
+      <pubDate>Mon, 07 Sep 2020 11:49:54 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020_regionselect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
