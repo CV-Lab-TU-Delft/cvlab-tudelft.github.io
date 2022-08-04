@@ -2,53 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cvlab-tudelft.github.io/publication-type/0/</loc>
-    <lastmod>2022-08-04T10:49:38+02:00</lastmod>
+    <loc>https://cvlab-tudelft.github.io/people/marcel-reinders/</loc>
   </url><url>
-    <loc>https://cvlab-tudelft.github.io/</loc>
-    <lastmod>2022-08-04T10:49:38+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/publication_types/</loc>
-    <lastmod>2022-08-04T10:49:38+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/publication/</loc>
-    <lastmod>2022-08-04T10:49:38+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/publication/2020_sted/</loc>
-    <lastmod>2022-08-04T10:49:38+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/publication-type/1/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/adrian-spurr/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/aneesh-dahiya/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/authors/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/publication/2021_peclr/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/xi-wang/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
+    <loc>https://cvlab-tudelft.github.io/people/jan-van-gemert/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/xucong-zhang/</loc>
-    <lastmod>2022-07-29T16:12:56+02:00</lastmod>
+    <lastmod>2022-07-29T15:56:19+02:00</lastmod>
   </url><url>
-    <loc>https://cvlab-tudelft.github.io/publication-type/5/</loc>
+    <loc>https://cvlab-tudelft.github.io/people/nergis-tomen/</loc>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/hadi-jamali-rad/</loc>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication-type/6/</loc>
     <lastmod>2022-07-29T15:56:19+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/and-anna-maria-feit/</loc>
     <lastmod>2022-07-29T15:56:19+02:00</lastmod>
   </url><url>
+    <loc>https://cvlab-tudelft.github.io/authors/</loc>
+    <lastmod>2022-07-29T15:56:19+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/</loc>
+    <lastmod>2022-07-29T15:56:19+02:00</lastmod>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2021_gaze_and_applications/</loc>
+    <lastmod>2022-07-29T15:56:19+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication_types/</loc>
+    <lastmod>2022-07-29T15:56:19+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/</loc>
     <lastmod>2022-07-29T15:56:19+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/seonwook-park/</loc>
     <lastmod>2022-07-29T15:56:19+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication-type/1/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/david-w.-romero/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
@@ -65,9 +56,6 @@
     <loc>https://cvlab-tudelft.github.io/people/jakub-m.-tomczak/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/jan-van-gemert/</loc>
-    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
-  </url><url>
     <loc>https://cvlab-tudelft.github.io/people/mark-hoogendoorn/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
@@ -76,6 +64,18 @@
   </url><url>
     <loc>https://cvlab-tudelft.github.io/tags/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/adrian-spurr/</loc>
+    <lastmod>2021-10-29T16:12:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/aneesh-dahiya/</loc>
+    <lastmod>2021-10-29T16:12:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/2021_peclr/</loc>
+    <lastmod>2021-10-29T16:12:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/xi-wang/</loc>
+    <lastmod>2021-10-29T16:12:56+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/attila-lengyel/</loc>
     <lastmod>2021-10-10T00:13:55+02:00</lastmod>
@@ -146,6 +146,9 @@
     <loc>https://cvlab-tudelft.github.io/publication/2021-vipriors-1/</loc>
     <lastmod>2021-03-09T10:26:21+01:00</lastmod>
   </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/2020_sted/</loc>
+    <lastmod>2020-08-04T10:49:38+02:00</lastmod>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2020-deep-hough/</loc>
     <lastmod>2020-07-18T20:50:03+02:00</lastmod>
   </url><url>
@@ -173,13 +176,7 @@
   </url><url>
     <loc>https://cvlab-tudelft.github.io/education/</loc>
   </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/hadi-jamali-rad/</loc>
-  </url><url>
     <loc>https://cvlab-tudelft.github.io/join/</loc>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/thesis/</loc>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/nergis-tomen/</loc>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/news/</loc>
   </url><url>
