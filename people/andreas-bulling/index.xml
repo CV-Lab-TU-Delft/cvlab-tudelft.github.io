@@ -20,5 +20,53 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Learning to find eye region landmarks for remote gaze estimation in unconstrained settings</title>
+      <link>https://cvlab-tudelft.github.io/publication/2018_landmarks-gaze/</link>
+      <pubDate>Thu, 14 Jun 2018 16:13:28 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2018_landmarks-gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AggreGaze: Collective Estimation of Audience Attention on Public Displays</title>
+      <link>https://cvlab-tudelft.github.io/publication/2016_aggregaze/</link>
+      <pubDate>Sun, 16 Oct 2016 16:41:33 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2016_aggregaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Eye Tracking with Optimizations for Lens Astigmatism in modern wide-angle HMDs</title>
+      <link>https://cvlab-tudelft.github.io/publication/2016_pohl_vr/</link>
+      <pubDate>Sat, 19 Mar 2016 16:45:24 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2016_pohl_vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labelled pupils in the wild: A dataset for studying pupil detection in unconstrained environments</title>
+      <link>https://cvlab-tudelft.github.io/publication/2016_lpw/</link>
+      <pubDate>Mon, 14 Mar 2016 16:43:22 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2016_lpw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rendering of eyes for eye-shape registration and gaze estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2015_syntheseyes/</link>
+      <pubDate>Sat, 07 Nov 2015 16:48:01 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2015_syntheseyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance-based Gaze Estimation in the Wild</title>
+      <link>https://cvlab-tudelft.github.io/publication/2015_mpiigaze/</link>
+      <pubDate>Fri, 05 Jun 2015 16:49:29 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2015_mpiigaze/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

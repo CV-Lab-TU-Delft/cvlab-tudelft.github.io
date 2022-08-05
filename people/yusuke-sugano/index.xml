@@ -20,5 +20,85 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Evaluation of Appearance-Based Methods for Gaze-Based Applications</title>
+      <link>https://cvlab-tudelft.github.io/publication/2019_opengaze/</link>
+      <pubDate>Sat, 04 May 2019 16:04:12 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2019_opengaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Person-Specific Gaze Estimators from User Interactions with Multiple Devices</title>
+      <link>https://cvlab-tudelft.github.io/publication/2018_multi_device_gaze/</link>
+      <pubDate>Fri, 05 Oct 2018 16:11:47 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2018_multi_device_gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Data Normalization for Appearance-based Gaze Estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2018_data_normalization/</link>
+      <pubDate>Thu, 14 Jun 2018 16:16:01 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2018_data_normalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery</title>
+      <link>https://cvlab-tudelft.github.io/publication/2017_eye_contact/</link>
+      <pubDate>Sun, 22 Oct 2017 16:20:09 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2017_eye_contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It’s Written All Over Your Face: Full-face Appearance-based Gaze Estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2017_fullface_gaze/</link>
+      <pubDate>Wed, 21 Jun 2017 16:37:07 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2017_fullface_gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2017_mpiigaze_tpami/</link>
+      <pubDate>Thu, 05 Jan 2017 16:39:03 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2017_mpiigaze_tpami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AggreGaze: Collective Estimation of Audience Attention on Public Displays</title>
+      <link>https://cvlab-tudelft.github.io/publication/2016_aggregaze/</link>
+      <pubDate>Sun, 16 Oct 2016 16:41:33 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2016_aggregaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labelled pupils in the wild: A dataset for studying pupil detection in unconstrained environments</title>
+      <link>https://cvlab-tudelft.github.io/publication/2016_lpw/</link>
+      <pubDate>Mon, 14 Mar 2016 16:43:22 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2016_lpw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rendering of eyes for eye-shape registration and gaze estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2015_syntheseyes/</link>
+      <pubDate>Sat, 07 Nov 2015 16:48:01 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2015_syntheseyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance-based Gaze Estimation in the Wild</title>
+      <link>https://cvlab-tudelft.github.io/publication/2015_mpiigaze/</link>
+      <pubDate>Fri, 05 Jun 2015 16:49:29 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2015_mpiigaze/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

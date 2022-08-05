@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emre Aksan | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/emre-aksan/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/emre-aksan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emre Aksan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 15:51:18 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Emre Aksan</title>
+      <link>https://cvlab-tudelft.github.io/people/emre-aksan/</link>
+    </image>
+    
+    <item>
+      <title>Towards End-to-end Video-based Eye-tracking </title>
+      <link>https://cvlab-tudelft.github.io/publication/2020_eve/</link>
+      <pubDate>Fri, 23 Oct 2020 15:51:18 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020_eve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

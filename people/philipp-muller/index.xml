@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp Müller | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/philipp-muller/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/philipp-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipp Müller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jun 2018 16:17:56 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Philipp Müller</title>
+      <link>https://cvlab-tudelft.github.io/people/philipp-muller/</link>
+    </image>
+    
+    <item>
+      <title>Robust Eye Contact Detection in Natural Multi-Person Interactions Using Gaze and Speaking Behaviour</title>
+      <link>https://cvlab-tudelft.github.io/publication/2018_mueller18_etra/</link>
+      <pubDate>Thu, 14 Jun 2018 16:17:56 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2018_mueller18_etra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

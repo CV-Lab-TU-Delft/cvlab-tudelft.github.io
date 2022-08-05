@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Tonsen | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/marc-tonsen/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/marc-tonsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Tonsen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Mar 2016 16:43:22 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Marc Tonsen</title>
+      <link>https://cvlab-tudelft.github.io/people/marc-tonsen/</link>
+    </image>
+    
+    <item>
+      <title>Labelled pupils in the wild: A dataset for studying pupil detection in unconstrained environments</title>
+      <link>https://cvlab-tudelft.github.io/publication/2016_lpw/</link>
+      <pubDate>Mon, 14 Mar 2016 16:43:22 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2016_lpw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

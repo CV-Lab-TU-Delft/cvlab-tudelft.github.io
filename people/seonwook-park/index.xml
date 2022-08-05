@@ -28,5 +28,37 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Towards End-to-end Video-based Eye-tracking </title>
+      <link>https://cvlab-tudelft.github.io/publication/2020_eve/</link>
+      <pubDate>Fri, 23 Oct 2020 15:51:18 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020_eve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2020_eth_xgaze/</link>
+      <pubDate>Fri, 23 Oct 2020 15:44:56 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020_eth_xgaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content-Consistent Generation of Realistic Eyes with Style</title>
+      <link>https://cvlab-tudelft.github.io/publication/2019_seg2eye/</link>
+      <pubDate>Mon, 05 Aug 2019 16:07:44 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2019_seg2eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to find eye region landmarks for remote gaze estimation in unconstrained settings</title>
+      <link>https://cvlab-tudelft.github.io/publication/2018_landmarks-gaze/</link>
+      <pubDate>Thu, 14 Jun 2018 16:13:28 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2018_landmarks-gaze/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

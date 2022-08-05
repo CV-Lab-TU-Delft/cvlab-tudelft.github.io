@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tadas Baltrušaitis | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/tadas-baltrusaitis/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/tadas-baltrusaitis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tadas Baltrušaitis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2015 16:48:01 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Tadas Baltrušaitis</title>
+      <link>https://cvlab-tudelft.github.io/people/tadas-baltrusaitis/</link>
+    </image>
+    
+    <item>
+      <title>Rendering of eyes for eye-shape registration and gaze estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2015_syntheseyes/</link>
+      <pubDate>Sat, 07 Nov 2015 16:48:01 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2015_syntheseyes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

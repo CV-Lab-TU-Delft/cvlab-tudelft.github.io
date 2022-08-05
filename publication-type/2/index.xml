@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/publication-type/2/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 15:53:02 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>2</title>
+      <link>https://cvlab-tudelft.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Gaze Estimation by Exploring Two-Eye Asymmetry</title>
+      <link>https://cvlab-tudelft.github.io/publication/2020_asymmetry/</link>
+      <pubDate>Fri, 20 Mar 2020 15:53:02 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2020_asymmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation</title>
+      <link>https://cvlab-tudelft.github.io/publication/2017_mpiigaze_tpami/</link>
+      <pubDate>Thu, 05 Jan 2017 16:39:03 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2017_mpiigaze_tpami/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
