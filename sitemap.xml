@@ -50,7 +50,16 @@
     <loc>https://cvlab-tudelft.github.io/publication/2021-flexconv/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
+    <loc>https://cvlab-tudelft.github.io/tag/human-preference/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/tag/inductive-priors/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/tag/iou/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/jakub-m.-tomczak/</loc>
@@ -59,10 +68,25 @@
     <loc>https://cvlab-tudelft.github.io/people/mark-hoogendoorn/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/oana-inel/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/tag/object-detection/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/ombretta-strafforello/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
     <loc>https://cvlab-tudelft.github.io/people/robert-jan-bruintjes/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/tags/</loc>
+    <lastmod>2022-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/vanathi-rajasekar/</loc>
     <lastmod>2022-01-30T09:23:41+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/adrian-spurr/</loc>
@@ -138,9 +162,6 @@
     <lastmod>2021-03-09T10:26:21+01:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/marcos-baptista-rios/</loc>
-    <lastmod>2021-03-09T10:26:21+01:00</lastmod>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/osman-semih-kayhan/</loc>
     <lastmod>2021-03-09T10:26:21+01:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2021-vipriors-1/</loc>
@@ -220,6 +241,21 @@
   </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</loc>
     <lastmod>2020-03-07T18:14:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/tag/action-recognition/</loc>
+    <lastmod>2020-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/klamer-schutte/</loc>
+    <lastmod>2020-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/publication/2021-actor-focused/</loc>
+    <lastmod>2020-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/people/luca-ballan/</loc>
+    <lastmod>2020-01-30T09:23:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cvlab-tudelft.github.io/tag/region-attention/</loc>
+    <lastmod>2020-01-30T09:23:41+02:00</lastmod>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/publication/2019_seg2eye/</loc>
     <lastmod>2019-08-05T16:07:44+02:00</lastmod>
@@ -330,8 +366,6 @@
     <loc>https://cvlab-tudelft.github.io/join/</loc>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/news/</loc>
-  </url><url>
-    <loc>https://cvlab-tudelft.github.io/people/ombretta-strafforello/</loc>
   </url><url>
     <loc>https://cvlab-tudelft.github.io/people/</loc>
   </url><url>

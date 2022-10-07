@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Humans disagree with the IoU for measuring object detector localization error.</title>
+      <link>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</link>
+      <pubDate>Sun, 30 Jan 2022 09:23:41 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zero-Shot Day-Night Domain Adaptation with a Physics Prior</title>
       <link>https://cvlab-tudelft.github.io/publication/2021-zero-shot-day-night/</link>
       <pubDate>Sun, 10 Oct 2021 00:13:55 +0200</pubDate>

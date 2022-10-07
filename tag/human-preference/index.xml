@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human preference | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/tag/human-preference/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/tag/human-preference/index.xml" rel="self" type="application/rss+xml" />
+    <description>human preference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jan 2022 09:23:41 +0200</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>human preference</title>
+      <link>https://cvlab-tudelft.github.io/tag/human-preference/</link>
+    </image>
+    
+    <item>
+      <title>Humans disagree with the IoU for measuring object detector localization error.</title>
+      <link>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</link>
+      <pubDate>Sun, 30 Jan 2022 09:23:41 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

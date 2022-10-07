@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Humans disagree with the IoU for measuring object detector localization error.</title>
+      <link>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</link>
+      <pubDate>Sun, 30 Jan 2022 09:23:41 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2022-evaluating-iou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning</title>
       <link>https://cvlab-tudelft.github.io/publication/2021_peclr/</link>
       <pubDate>Fri, 29 Oct 2021 16:12:56 +0200</pubDate>
@@ -121,6 +129,14 @@
       <link>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</link>
       <pubDate>Sat, 07 Mar 2020 18:14:07 +0200</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/2020-on-translation-invariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term Behaviour Recognition in Videos with Actor-focused Region Attention.</title>
+      <link>https://cvlab-tudelft.github.io/publication/2021-actor-focused/</link>
+      <pubDate>Thu, 30 Jan 2020 09:23:41 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2021-actor-focused/</guid>
       <description></description>
     </item>
     
