@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seyran Khademi | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/seyran-khademi/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/seyran-khademi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seyran Khademi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Seyran Khademi</title>
+      <link>https://cvlab-tudelft.github.io/people/seyran-khademi/</link>
+    </image>
+    
+  </channel>
+</rss>
