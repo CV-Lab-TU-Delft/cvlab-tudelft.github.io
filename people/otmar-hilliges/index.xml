@@ -5,12 +5,20 @@
     <link>https://cvlab-tudelft.github.io/people/otmar-hilliges/</link>
       <atom:link href="https://cvlab-tudelft.github.io/people/otmar-hilliges/index.xml" rel="self" type="application/rss+xml" />
     <description>Otmar Hilliges</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 16:05:49 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Oct 2021 16:12:56 +0200</lastBuildDate>
     <image>
       <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
       <title>Otmar Hilliges</title>
       <link>https://cvlab-tudelft.github.io/people/otmar-hilliges/</link>
     </image>
+    
+    <item>
+      <title>Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning</title>
+      <link>https://cvlab-tudelft.github.io/publication/2021_peclr/</link>
+      <pubDate>Fri, 29 Oct 2021 16:12:56 +0200</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2021_peclr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Photo-realistic Monocular Gaze Redirection Using Generative Adversarial Networks</title>

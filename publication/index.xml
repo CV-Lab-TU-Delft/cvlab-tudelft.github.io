@@ -5,12 +5,20 @@
     <link>https://cvlab-tudelft.github.io/publication/</link>
       <atom:link href="https://cvlab-tudelft.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 15:56:19 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Dec 2022 13:50:58 +0100</lastBuildDate>
     <image>
       <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
       <title>Publications</title>
       <link>https://cvlab-tudelft.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Towards Single Camera Kinematics Human 3D-Kinematics</title>
+      <link>https://cvlab-tudelft.github.io/publication/2022-towards-single-camera-kinematics/</link>
+      <pubDate>Wed, 28 Dec 2022 13:50:58 +0100</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/2022-towards-single-camera-kinematics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eye Gaze Estimation and Its Applications</title>
