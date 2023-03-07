@@ -5,7 +5,7 @@
     <link>https://cvlab-tudelft.github.io/publication-type/2/</link>
       <atom:link href="https://cvlab-tudelft.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Dec 2022 13:50:58 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 15:18:51 +0100</lastBuildDate>
     <image>
       <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
       <title>2</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Transductive Decoupled Variational Inference for Few-Shot Classification</title>
+      <link>https://cvlab-tudelft.github.io/publication/tmlr/</link>
+      <pubDate>Tue, 07 Mar 2023 15:18:51 +0100</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/tmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Single Camera Kinematics Human 3D-Kinematics</title>
       <link>https://cvlab-tudelft.github.io/publication/2022-towards-single-camera-kinematics/</link>
       <pubDate>Wed, 28 Dec 2022 13:50:58 +0100</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/2022-towards-single-camera-kinematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning With Taskonomy for Non-IID Data</title>
+      <link>https://cvlab-tudelft.github.io/publication/flt/</link>
+      <pubDate>Mon, 07 Mar 2022 15:21:15 +0100</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/flt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lookahead Adversarial Learning for Near Real-Time Semantic Segmentation</title>
+      <link>https://cvlab-tudelft.github.io/publication/load/</link>
+      <pubDate>Sun, 07 Mar 2021 15:28:42 +0100</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/load/</guid>
       <description></description>
     </item>
     

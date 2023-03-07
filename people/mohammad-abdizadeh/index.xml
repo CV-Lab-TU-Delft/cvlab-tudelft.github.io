@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Abdizadeh | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/mohammad-abdizadeh/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/mohammad-abdizadeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Abdizadeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 15:21:15 +0100</lastBuildDate>
+    <image>
+      <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
+      <title>Mohammad Abdizadeh</title>
+      <link>https://cvlab-tudelft.github.io/people/mohammad-abdizadeh/</link>
+    </image>
+    
+    <item>
+      <title>Federated Learning With Taskonomy for Non-IID Data</title>
+      <link>https://cvlab-tudelft.github.io/publication/flt/</link>
+      <pubDate>Mon, 07 Mar 2022 15:21:15 +0100</pubDate>
+      <guid>https://cvlab-tudelft.github.io/publication/flt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

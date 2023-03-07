@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hadi Jamali-Rad | Delft CV Lab</title>
-    <link>https://cvlab-tudelft.github.io/people/hadi-jamali-rad/</link>
-      <atom:link href="https://cvlab-tudelft.github.io/people/hadi-jamali-rad/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hadi Jamali-Rad</description>
+    <title>Anuj Singh | Delft CV Lab</title>
+    <link>https://cvlab-tudelft.github.io/people/anuj-singh/</link>
+      <atom:link href="https://cvlab-tudelft.github.io/people/anuj-singh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anuj Singh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 15:18:51 +0100</lastBuildDate>
     <image>
       <url>https://cvlab-tudelft.github.io/images/logo_hu7b297729b569567e709e217a3b58a8a7_3548_300x300_fit_box_3.png</url>
-      <title>Hadi Jamali-Rad</title>
-      <link>https://cvlab-tudelft.github.io/people/hadi-jamali-rad/</link>
+      <title>Anuj Singh</title>
+      <link>https://cvlab-tudelft.github.io/people/anuj-singh/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://cvlab-tudelft.github.io/publication/tmlr/</link>
       <pubDate>Tue, 07 Mar 2023 15:18:51 +0100</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/tmlr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LAB: Learnable Activation Binarizer for Binary Neural Networks</title>
-      <link>https://cvlab-tudelft.github.io/publication/labbnn/</link>
-      <pubDate>Tue, 07 Mar 2023 15:15:32 +0100</pubDate>
-      <guid>https://cvlab-tudelft.github.io/publication/labbnn/</guid>
       <description></description>
     </item>
     
@@ -37,26 +29,10 @@
     </item>
     
     <item>
-      <title>Self-Supervised Class-Cognizant Few-Shot Classification</title>
-      <link>https://cvlab-tudelft.github.io/publication/c3lr/</link>
-      <pubDate>Mon, 07 Mar 2022 15:25:15 +0100</pubDate>
-      <guid>https://cvlab-tudelft.github.io/publication/c3lr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Federated Learning With Taskonomy for Non-IID Data</title>
       <link>https://cvlab-tudelft.github.io/publication/flt/</link>
       <pubDate>Mon, 07 Mar 2022 15:21:15 +0100</pubDate>
       <guid>https://cvlab-tudelft.github.io/publication/flt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lookahead Adversarial Learning for Near Real-Time Semantic Segmentation</title>
-      <link>https://cvlab-tudelft.github.io/publication/load/</link>
-      <pubDate>Sun, 07 Mar 2021 15:28:42 +0100</pubDate>
-      <guid>https://cvlab-tudelft.github.io/publication/load/</guid>
       <description></description>
     </item>
     
